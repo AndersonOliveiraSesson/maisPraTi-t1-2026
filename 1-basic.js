@@ -435,3 +435,5 @@ console.log(`A frase tem ${frase.length} caracteres.`);
 // Math           → random, floor, ceil, round, trunc, max, min, sqrt, abs, PI, E
 // Date           → new Date(), getFullYear(), toLocaleDateString(), Date.now()
 // String         → length, at, slice, includes, replace, split, trim, template literals
+
+//Teste do Jaques.
